@@ -25,6 +25,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 
 ## Java
 * `B` [Factorial](Java/Factorial.java)
+* `A` [Topological sort](Java/TopologicalSort.java)
 
 ## C
 * `B` [Commont Element in two Arrays](C/commont_element_in_two_arrays.c)
